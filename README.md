@@ -1,4 +1,4 @@
-# Hey! I'm Tan! <img src="mesleep.gif" width=30%>
+<h1 align="center">Hey! I'm Tan! </h1> <p align="center"><img src="mesleep.gif" width=30%></p>
 
 
 <h3 align="center">A passionate FullStack developer</h3>
