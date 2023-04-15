@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tan Nguyen</h1> <img src="mesleep.gif" width=40%>
+<h1 align="center">Hey! I'm Tan </h1> <img align="right" src="mesleep.gif" width=40%>
 
 
 <h3 align="center">A passionate FullStack developer</h3>
