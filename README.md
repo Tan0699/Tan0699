@@ -1,4 +1,4 @@
-# <div align="center"> Hey! I'm Tan!</p> <p align="center"><img src="mesleep.gif" width=30%></div> <div align="center">A passionate FullStack developer</div><div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=22C4D7&width=435&lines=Who+also+likes+to+sleep+and+play+Valorant" alt="Typing SVG" /></a></div>
+# <div align="center"> Hey, I'm Tan!</p> <p align="center"><img src="mesleep.gif" width=30%></div> <div align="center">A passionate FullStack developer</div><div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=22C4D7&width=435&lines=Who+also+likes+to+sleep+and+play+Valorant" alt="Typing SVG" /></a></div>
 
 
 
