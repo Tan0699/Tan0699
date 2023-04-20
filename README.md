@@ -5,7 +5,7 @@
  <div align="center">
  <a href="https://www.linkedin.com/in/tan-nguyen-8b0a8a257"><img width="32px" alt="Linkedln" title="Linkedln" src="linklogo1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://wellfound.com/u/tan-nguyen-47"><img width="41px" alt="AngelList" title="AngelList" src="mail7.png"/></a>
+ <a href="mailto:taan3311@gmail.com"><img width="41px" alt="Gmail" title="Gmail" src="mail7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://wellfound.com/u/tan-nguyen-47"><img width="27px" alt="AngelList" title="AngelList" src="angelimg.png"/></a>
 </div>
