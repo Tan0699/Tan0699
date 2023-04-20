@@ -58,6 +58,4 @@
  &#8287;&#8287;&#8287;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=tan0699&&bg_color=30,00ffeb,529aad&title_color=fff&text_color=fff,show_icons=true&locale=en" alt="tan0699" /></p>
-
-<p><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tan0699&" alt="tan0699" /></p>
+<img width="50%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=tan0699&&bg_color=30,00ffeb,529aad&title_color=fff&text_color=fff,show_icons=true&locale=en" alt="tan0699" /><img width="50%" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tan0699&" alt="tan0699" />
