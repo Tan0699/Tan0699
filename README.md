@@ -4,7 +4,8 @@
    
  <div align="center">
  <a href="https://www.linkedin.com/in/tan-nguyen-8b0a8a257"><img width="32px" alt="Linkedln" title="Linkedln" src="linklogo1.png"/></a>
- <a href="https://wellfound.com/u/tan-nguyen-47"><img width="32px" alt="AngelList" title="AngelList" src="mailogo1.png"/></a>
+ <a href="https://wellfound.com/u/tan-nguyen-47"><img width="32px" alt="AngelList" title="AngelList" src="mail7.png"/></a>
+ <a href="https://wellfound.com/u/tan-nguyen-47"><img width="32px" alt="AngelList" title="AngelList" src="angelimg.png"/></a>
 </div>
    
  ### <div align="center">A passionate FullStack developer</div>
