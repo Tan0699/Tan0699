@@ -26,8 +26,6 @@
 
 - 👨‍💻 All of my projects are available at [https://tan0699.github.io/](https://tan0699.github.io/)
 
-- 📫 How to reach me **taan3311@gmail.com**
-
 <p align="left">
 </p>
 
