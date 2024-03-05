@@ -17,8 +17,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=22C4D7&width=435&lines=Who+also+likes+to+sleep+and+play+Valorant" alt="Typing SVG" /></a></div>
 <div/>
 <div/>
-
-
 <div/>
 
 
