@@ -10,7 +10,6 @@
  <a href="https://wellfound.com/u/tan-nguyen-47"><img width="27px" alt="AngelList" title="AngelList" src="angelimg.png"/></a>
 </div>
    <div/>
-
  ### <div align="center">A passionate FullStack developer</div>
   <div align="center">
   <a href="https://git.io/typing-svg">
