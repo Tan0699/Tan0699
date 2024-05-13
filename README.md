@@ -21,6 +21,7 @@
 <p align="left">
 </p>
 
+
 <div/>
 <h3 align="center">My Tech Skills</h3>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
