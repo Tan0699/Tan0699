@@ -15,7 +15,6 @@
 
 
 
-
     
  ### <div align="center">A passionate FullStack developer</div>
   <div align="center">
